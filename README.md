@@ -6,6 +6,10 @@ Currently only compiles on Windows with MinGW gcc. However, porting to linux isn
 The video rendering implementation is based on this demo by tsoding: [Rendering Video in C with FFMpeg](https://github.com/tsoding/rendering-video-in-c-with-ffmpeg/)
 I only adjusted some ffmpeg parameters.
 
+
+https://github.com/homoclient/eca110/assets/128222037/f899ccae-a45a-41a5-a13d-24026f803302
+
+
 # Dependencies:
 
 [Raylib](https://github.com/raysan5/raylib)
